@@ -1,0 +1,19 @@
+e:\users\admin\documents\visual studio 2015\Projects\Alarm Clock\Alarm Clock\bin\Debug\Alarm Clock.exe.config
+e:\users\admin\documents\visual studio 2015\Projects\Alarm Clock\Alarm Clock\bin\Debug\Alarm Clock.exe
+e:\users\admin\documents\visual studio 2015\Projects\Alarm Clock\Alarm Clock\bin\Debug\Alarm Clock.pdb
+e:\users\admin\documents\visual studio 2015\Projects\Alarm Clock\Alarm Clock\obj\Debug\Alarm Clock.csprojResolveAssemblyReference.cache
+e:\users\admin\documents\visual studio 2015\Projects\Alarm Clock\Alarm Clock\obj\Debug\Interop.MediaPlayer.dll
+e:\users\admin\documents\visual studio 2015\Projects\Alarm Clock\Alarm Clock\obj\Debug\Interop.WMPDXMLib.dll
+e:\users\admin\documents\visual studio 2015\Projects\Alarm Clock\Alarm Clock\obj\Debug\Interop.WMPLauncher.dll
+e:\users\admin\documents\visual studio 2015\Projects\Alarm Clock\Alarm Clock\obj\Debug\Interop.WMPLib.dll
+e:\users\admin\documents\visual studio 2015\Projects\Alarm Clock\Alarm Clock\obj\Debug\Interop.WMPRichPreviewLauncher.dll
+e:\users\admin\documents\visual studio 2015\Projects\Alarm Clock\Alarm Clock\obj\Debug\Interop.WMSCLIENTNETMGRLib.dll
+e:\users\admin\documents\visual studio 2015\Projects\Alarm Clock\Alarm Clock\obj\Debug\Interop.WPDSpLib.dll
+e:\users\admin\documents\visual studio 2015\Projects\Alarm Clock\Alarm Clock\obj\Debug\Alarm Clock.csproj.ResolveComReference.cache
+e:\users\admin\documents\visual studio 2015\Projects\Alarm Clock\Alarm Clock\obj\Debug\Alarm_Clock.Form1.resources
+e:\users\admin\documents\visual studio 2015\Projects\Alarm Clock\Alarm Clock\obj\Debug\Alarm_Clock.Properties.Resources.resources
+e:\users\admin\documents\visual studio 2015\Projects\Alarm Clock\Alarm Clock\obj\Debug\Alarm Clock.csproj.GenerateResource.Cache
+e:\users\admin\documents\visual studio 2015\Projects\Alarm Clock\Alarm Clock\obj\Debug\Alarm Clock.exe
+e:\users\admin\documents\visual studio 2015\Projects\Alarm Clock\Alarm Clock\obj\Debug\Alarm Clock.pdb
+e:\users\admin\documents\visual studio 2015\Projects\Alarm Clock\Alarm Clock\obj\Debug\Interop.SpeechLib.dll
+e:\users\admin\documents\visual studio 2015\Projects\Alarm Clock\Alarm Clock\bin\Debug\Text To Speech.exe.config

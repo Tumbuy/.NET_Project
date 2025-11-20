@@ -1,0 +1,12 @@
+e:\users\admin\documents\visual studio 2015\Projects\TCP_Chat_2\TCP_Chat_2\bin\Debug\TCP_Chat_2.exe.config
+e:\users\admin\documents\visual studio 2015\Projects\TCP_Chat_2\TCP_Chat_2\bin\Debug\TCP_Chat_2.exe
+e:\users\admin\documents\visual studio 2015\Projects\TCP_Chat_2\TCP_Chat_2\bin\Debug\TCP_Chat_2.pdb
+e:\users\admin\documents\visual studio 2015\Projects\TCP_Chat_2\TCP_Chat_2\obj\Debug\TCP_Chat_2.csprojResolveAssemblyReference.cache
+e:\users\admin\documents\visual studio 2015\Projects\TCP_Chat_2\TCP_Chat_2\obj\Debug\TCP_Chat_2.exe
+e:\users\admin\documents\visual studio 2015\Projects\TCP_Chat_2\TCP_Chat_2\obj\Debug\TCP_Chat_2.pdb
+E:\Users\Admin\Documents\Visual Studio 2015\Projects\TCP_Chat_Client\TCP_Chat_2\bin\Debug\TCP_Chat_2.exe.config
+E:\Users\Admin\Documents\Visual Studio 2015\Projects\TCP_Chat_Client\TCP_Chat_2\obj\Debug\TCP_Chat_2.exe
+E:\Users\Admin\Documents\Visual Studio 2015\Projects\TCP_Chat_Client\TCP_Chat_2\obj\Debug\TCP_Chat_2.pdb
+E:\Users\Admin\Documents\Visual Studio 2015\Projects\TCP_Chat_Client\TCP_Chat_2\bin\Debug\TCP_Chat_2.exe
+E:\Users\Admin\Documents\Visual Studio 2015\Projects\TCP_Chat_Client\TCP_Chat_2\bin\Debug\TCP_Chat_2.pdb
+E:\Users\Admin\Documents\Visual Studio 2015\Projects\TCP_Chat_Client\TCP_Chat_2\obj\Debug\TCP_Chat_2.csprojResolveAssemblyReference.cache

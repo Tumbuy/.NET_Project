@@ -1,0 +1,9 @@
+c:\users\bruker\documents\visual studio 2015\Projects\Encrypt Text\Encrypt Text\bin\Debug\Encrypt Text.exe.config
+c:\users\bruker\documents\visual studio 2015\Projects\Encrypt Text\Encrypt Text\bin\Debug\Encrypt Text.exe
+c:\users\bruker\documents\visual studio 2015\Projects\Encrypt Text\Encrypt Text\bin\Debug\Encrypt Text.pdb
+c:\users\bruker\documents\visual studio 2015\Projects\Encrypt Text\Encrypt Text\obj\Debug\Encrypt Text.csprojResolveAssemblyReference.cache
+c:\users\bruker\documents\visual studio 2015\Projects\Encrypt Text\Encrypt Text\obj\Debug\Encrypt_Text.Form1.resources
+c:\users\bruker\documents\visual studio 2015\Projects\Encrypt Text\Encrypt Text\obj\Debug\Encrypt_Text.Properties.Resources.resources
+c:\users\bruker\documents\visual studio 2015\Projects\Encrypt Text\Encrypt Text\obj\Debug\Encrypt Text.csproj.GenerateResource.Cache
+c:\users\bruker\documents\visual studio 2015\Projects\Encrypt Text\Encrypt Text\obj\Debug\Encrypt Text.exe
+c:\users\bruker\documents\visual studio 2015\Projects\Encrypt Text\Encrypt Text\obj\Debug\Encrypt Text.pdb

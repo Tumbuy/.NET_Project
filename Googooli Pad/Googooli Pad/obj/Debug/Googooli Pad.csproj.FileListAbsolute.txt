@@ -1,0 +1,12 @@
+e:\users\admin\documents\visual studio 2015\Projects\Googooli Pad\Googooli Pad\bin\Debug\Googooli Pad.exe.config
+e:\users\admin\documents\visual studio 2015\Projects\Googooli Pad\Googooli Pad\bin\Debug\Googooli Pad.exe
+e:\users\admin\documents\visual studio 2015\Projects\Googooli Pad\Googooli Pad\bin\Debug\Googooli Pad.pdb
+e:\users\admin\documents\visual studio 2015\Projects\Googooli Pad\Googooli Pad\obj\Debug\Googooli Pad.csprojResolveAssemblyReference.cache
+e:\users\admin\documents\visual studio 2015\Projects\Googooli Pad\Googooli Pad\obj\Debug\Googooli_Pad.Form1.resources
+e:\users\admin\documents\visual studio 2015\Projects\Googooli Pad\Googooli Pad\obj\Debug\Googooli_Pad.Properties.Resources.resources
+e:\users\admin\documents\visual studio 2015\Projects\Googooli Pad\Googooli Pad\obj\Debug\Googooli Pad.csproj.GenerateResource.Cache
+e:\users\admin\documents\visual studio 2015\Projects\Googooli Pad\Googooli Pad\obj\Debug\Googooli Pad.exe
+e:\users\admin\documents\visual studio 2015\Projects\Googooli Pad\Googooli Pad\obj\Debug\Googooli Pad.pdb
+C:\Users\bruker\Documents\Visual Studio 2015\Projects\Googooli Pad\Googooli Pad\bin\Debug\Googooli Pad.exe.config
+C:\Users\bruker\Documents\Visual Studio 2015\Projects\Googooli Pad\Googooli Pad\obj\Debug\Googooli Pad.exe
+C:\Users\bruker\Documents\Visual Studio 2015\Projects\Googooli Pad\Googooli Pad\obj\Debug\Googooli Pad.pdb

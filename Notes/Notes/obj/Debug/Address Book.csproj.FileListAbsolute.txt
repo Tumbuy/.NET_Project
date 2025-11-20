@@ -1,0 +1,30 @@
+e:\users\admin\documents\visual studio 2015\Projects\Address Book\Address Book\bin\Debug\Address Book.exe.config
+e:\users\admin\documents\visual studio 2015\Projects\Address Book\Address Book\bin\Debug\Address Book.exe
+e:\users\admin\documents\visual studio 2015\Projects\Address Book\Address Book\bin\Debug\Address Book.pdb
+e:\users\admin\documents\visual studio 2015\Projects\Address Book\Address Book\obj\Debug\Address Book.csprojResolveAssemblyReference.cache
+e:\users\admin\documents\visual studio 2015\Projects\Address Book\Address Book\obj\Debug\Address_Book.Properties.Resources.resources
+e:\users\admin\documents\visual studio 2015\Projects\Address Book\Address Book\obj\Debug\Address Book.csproj.GenerateResource.Cache
+e:\users\admin\documents\visual studio 2015\Projects\Address Book\Address Book\obj\Debug\Address Book.exe
+e:\users\admin\documents\visual studio 2015\Projects\Address Book\Address Book\obj\Debug\Address Book.pdb
+E:\Users\Admin\documents\visual studio 2015\Projects\Address Book\Address Book\obj\Debug\Address_Book.About.resources
+E:\Users\Admin\Documents\Visual Studio 2015\Projects\Address Book\Address Book\bin\Debug\EntityFramework.dll
+E:\Users\Admin\Documents\Visual Studio 2015\Projects\Address Book\Address Book\bin\Debug\EntityFramework.SqlServer.dll
+E:\Users\Admin\Documents\Visual Studio 2015\Projects\Address Book\Address Book\bin\Debug\EntityFramework.xml
+E:\Users\Admin\Documents\Visual Studio 2015\Projects\Address Book\Address Book\bin\Debug\EntityFramework.SqlServer.xml
+E:\Users\Admin\Documents\Visual Studio 2015\Projects\Address Book\Address Book\obj\Debug\Address_Book.Login.resources
+E:\Users\Admin\Documents\Visual Studio 2015\Projects\Address Book\Address Book\obj\Debug\Address_Book.Main1.resources
+E:\Users\Admin\Documents\Visual Studio 2015\Projects\Notes\Address Book\bin\Debug\Address Book.exe.config
+E:\Users\Admin\Documents\Visual Studio 2015\Projects\Notes\Address Book\obj\Debug\Address Book.exe
+E:\Users\Admin\Documents\Visual Studio 2015\Projects\Notes\Address Book\obj\Debug\Address Book.pdb
+E:\Users\Admin\Documents\Visual Studio 2015\Projects\Notes\Address Book\obj\Debug\Address Book.csprojResolveAssemblyReference.cache
+E:\Users\Admin\Documents\Visual Studio 2015\Projects\Notes\Address Book\obj\Debug\Address_Book.About.resources
+E:\Users\Admin\Documents\Visual Studio 2015\Projects\Notes\Address Book\obj\Debug\Address_Book.Main1.resources
+E:\Users\Admin\Documents\Visual Studio 2015\Projects\Notes\Address Book\obj\Debug\Address_Book.Login.resources
+E:\Users\Admin\Documents\Visual Studio 2015\Projects\Notes\Address Book\obj\Debug\Address_Book.Properties.Resources.resources
+E:\Users\Admin\Documents\Visual Studio 2015\Projects\Notes\Address Book\obj\Debug\Address Book.csproj.GenerateResource.Cache
+E:\Users\Admin\Documents\Visual Studio 2015\Projects\Notes\Address Book\bin\Debug\Address Book.exe
+E:\Users\Admin\Documents\Visual Studio 2015\Projects\Notes\Address Book\bin\Debug\Address Book.pdb
+E:\Users\Admin\Documents\Visual Studio 2015\Projects\Notes\Address Book\bin\Debug\EntityFramework.dll
+E:\Users\Admin\Documents\Visual Studio 2015\Projects\Notes\Address Book\bin\Debug\EntityFramework.SqlServer.dll
+E:\Users\Admin\Documents\Visual Studio 2015\Projects\Notes\Address Book\bin\Debug\EntityFramework.xml
+E:\Users\Admin\Documents\Visual Studio 2015\Projects\Notes\Address Book\bin\Debug\EntityFramework.SqlServer.xml

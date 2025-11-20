@@ -1,0 +1,10 @@
+e:\users\admin\documents\visual studio 2015\Projects\HTML Editor\HTML Editor\bin\Debug\HTML Editor.exe.config
+e:\users\admin\documents\visual studio 2015\Projects\HTML Editor\HTML Editor\bin\Debug\HTML Editor.exe
+e:\users\admin\documents\visual studio 2015\Projects\HTML Editor\HTML Editor\bin\Debug\HTML Editor.pdb
+e:\users\admin\documents\visual studio 2015\Projects\HTML Editor\HTML Editor\obj\Debug\HTML Editor.csprojResolveAssemblyReference.cache
+e:\users\admin\documents\visual studio 2015\Projects\HTML Editor\HTML Editor\obj\Debug\HTML_Editor.Form1.resources
+e:\users\admin\documents\visual studio 2015\Projects\HTML Editor\HTML Editor\obj\Debug\HTML_Editor.Properties.Resources.resources
+e:\users\admin\documents\visual studio 2015\Projects\HTML Editor\HTML Editor\obj\Debug\HTML Editor.csproj.GenerateResource.Cache
+e:\users\admin\documents\visual studio 2015\Projects\HTML Editor\HTML Editor\obj\Debug\HTML Editor.exe
+e:\users\admin\documents\visual studio 2015\Projects\HTML Editor\HTML Editor\obj\Debug\HTML Editor.pdb
+e:\users\admin\documents\visual studio 2015\Projects\HTML Editor\HTML Editor\obj\Debug\HTML_Editor.About.resources

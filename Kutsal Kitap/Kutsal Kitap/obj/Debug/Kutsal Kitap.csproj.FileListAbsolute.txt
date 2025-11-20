@@ -1,0 +1,10 @@
+e:\users\admin\documents\visual studio 2015\Projects\Kutsal Kitap\Kutsal Kitap\bin\Debug\Kutsal Kitap.exe.config
+e:\users\admin\documents\visual studio 2015\Projects\Kutsal Kitap\Kutsal Kitap\bin\Debug\Kutsal Kitap.exe
+e:\users\admin\documents\visual studio 2015\Projects\Kutsal Kitap\Kutsal Kitap\bin\Debug\Kutsal Kitap.pdb
+e:\users\admin\documents\visual studio 2015\Projects\Kutsal Kitap\Kutsal Kitap\obj\Debug\Kutsal Kitap.csprojResolveAssemblyReference.cache
+e:\users\admin\documents\visual studio 2015\Projects\Kutsal Kitap\Kutsal Kitap\obj\Debug\Kutsal_Kitap.Form1.resources
+e:\users\admin\documents\visual studio 2015\Projects\Kutsal Kitap\Kutsal Kitap\obj\Debug\Kutsal_Kitap.Properties.Resources.resources
+e:\users\admin\documents\visual studio 2015\Projects\Kutsal Kitap\Kutsal Kitap\obj\Debug\Kutsal Kitap.csproj.GenerateResource.Cache
+e:\users\admin\documents\visual studio 2015\Projects\Kutsal Kitap\Kutsal Kitap\obj\Debug\Kutsal Kitap.exe
+e:\users\admin\documents\visual studio 2015\Projects\Kutsal Kitap\Kutsal Kitap\obj\Debug\Kutsal Kitap.pdb
+e:\users\admin\documents\visual studio 2015\Projects\Kutsal Kitap\Kutsal Kitap\obj\Debug\Kutsal_Kitap.About.resources

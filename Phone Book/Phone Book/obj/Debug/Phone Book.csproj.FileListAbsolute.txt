@@ -1,0 +1,18 @@
+e:\users\admin\documents\visual studio 2015\Projects\Phone Book\Phone Book\bin\Debug\Phone Book.exe.config
+e:\users\admin\documents\visual studio 2015\Projects\Phone Book\Phone Book\bin\Debug\Phone Book.exe
+e:\users\admin\documents\visual studio 2015\Projects\Phone Book\Phone Book\bin\Debug\Phone Book.pdb
+e:\users\admin\documents\visual studio 2015\Projects\Phone Book\Phone Book\obj\Debug\Phone Book.csprojResolveAssemblyReference.cache
+e:\users\admin\documents\visual studio 2015\Projects\Phone Book\Phone Book\obj\Debug\Phone_Book.Form1.resources
+e:\users\admin\documents\visual studio 2015\Projects\Phone Book\Phone Book\obj\Debug\Phone_Book.Properties.Resources.resources
+e:\users\admin\documents\visual studio 2015\Projects\Phone Book\Phone Book\obj\Debug\Phone Book.csproj.GenerateResource.Cache
+e:\users\admin\documents\visual studio 2015\Projects\Phone Book\Phone Book\obj\Debug\Phone Book.exe
+e:\users\admin\documents\visual studio 2015\Projects\Phone Book\Phone Book\obj\Debug\Phone Book.pdb
+C:\Users\bruker\Documents\Visual Studio 2015\Projects\Phone Book\Phone Book\bin\Debug\Phone Book.exe.config
+C:\Users\bruker\Documents\Visual Studio 2015\Projects\Phone Book\Phone Book\obj\Debug\Phone Book.exe
+C:\Users\bruker\Documents\Visual Studio 2015\Projects\Phone Book\Phone Book\obj\Debug\Phone Book.pdb
+C:\Users\bruker\Documents\Visual Studio 2015\Projects\Phone Book\Phone Book\bin\Debug\Phone Book.exe
+C:\Users\bruker\Documents\Visual Studio 2015\Projects\Phone Book\Phone Book\bin\Debug\Phone Book.pdb
+C:\Users\bruker\Documents\Visual Studio 2015\Projects\Phone Book\Phone Book\obj\Debug\Phone Book.csprojResolveAssemblyReference.cache
+C:\Users\bruker\Documents\Visual Studio 2015\Projects\Phone Book\Phone Book\obj\Debug\Phone_Book.Form1.resources
+C:\Users\bruker\Documents\Visual Studio 2015\Projects\Phone Book\Phone Book\obj\Debug\Phone_Book.Properties.Resources.resources
+C:\Users\bruker\Documents\Visual Studio 2015\Projects\Phone Book\Phone Book\obj\Debug\Phone Book.csproj.GenerateResource.Cache

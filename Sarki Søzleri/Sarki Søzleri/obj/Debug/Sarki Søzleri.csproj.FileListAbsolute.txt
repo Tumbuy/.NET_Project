@@ -1,0 +1,9 @@
+e:\users\admin\documents\visual studio 2015\Projects\Sarki Søzleri\Sarki Søzleri\bin\Debug\Sarki Søzleri.exe.config
+e:\users\admin\documents\visual studio 2015\Projects\Sarki Søzleri\Sarki Søzleri\bin\Debug\Sarki Søzleri.exe
+e:\users\admin\documents\visual studio 2015\Projects\Sarki Søzleri\Sarki Søzleri\bin\Debug\Sarki Søzleri.pdb
+e:\users\admin\documents\visual studio 2015\Projects\Sarki Søzleri\Sarki Søzleri\obj\Debug\Sarki_Søzleri.Form1.resources
+e:\users\admin\documents\visual studio 2015\Projects\Sarki Søzleri\Sarki Søzleri\obj\Debug\Sarki_Søzleri.Properties.Resources.resources
+e:\users\admin\documents\visual studio 2015\Projects\Sarki Søzleri\Sarki Søzleri\obj\Debug\Sarki Søzleri.csproj.GenerateResource.Cache
+e:\users\admin\documents\visual studio 2015\Projects\Sarki Søzleri\Sarki Søzleri\obj\Debug\Sarki Søzleri.exe
+e:\users\admin\documents\visual studio 2015\Projects\Sarki Søzleri\Sarki Søzleri\obj\Debug\Sarki Søzleri.pdb
+E:\Users\Admin\documents\visual studio 2015\Projects\Sarki Søzleri\Sarki Søzleri\obj\Debug\Sarki Søzleri.csprojResolveAssemblyReference.cache

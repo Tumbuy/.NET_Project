@@ -1,0 +1,18 @@
+c:\users\bruker\documents\visual studio 2015\Projects\Receipt\Receipt\bin\Debug\Receipt.exe.config
+c:\users\bruker\documents\visual studio 2015\Projects\Receipt\Receipt\bin\Debug\Receipt.exe
+c:\users\bruker\documents\visual studio 2015\Projects\Receipt\Receipt\bin\Debug\Receipt.pdb
+c:\users\bruker\documents\visual studio 2015\Projects\Receipt\Receipt\obj\Debug\Receipt.csprojResolveAssemblyReference.cache
+c:\users\bruker\documents\visual studio 2015\Projects\Receipt\Receipt\obj\Debug\Receipt.Properties.Resources.resources
+c:\users\bruker\documents\visual studio 2015\Projects\Receipt\Receipt\obj\Debug\Receipt.csproj.GenerateResource.Cache
+c:\users\bruker\documents\visual studio 2015\Projects\Receipt\Receipt\obj\Debug\Receipt.exe
+c:\users\bruker\documents\visual studio 2015\Projects\Receipt\Receipt\obj\Debug\Receipt.pdb
+c:\users\bruker\documents\visual studio 2015\Projects\Receipt\Receipt\obj\Debug\Reciept.Form1.resources
+C:\Users\bruker\Desktop\Receipt\Receipt\bin\Debug\Receipt.exe.config
+C:\Users\bruker\Desktop\Receipt\Receipt\obj\Debug\Receipt.exe
+C:\Users\bruker\Desktop\Receipt\Receipt\obj\Debug\Receipt.pdb
+C:\Users\bruker\Desktop\Receipt\Receipt\bin\Debug\Receipt.exe
+C:\Users\bruker\Desktop\Receipt\Receipt\bin\Debug\Receipt.pdb
+C:\Users\bruker\Desktop\Receipt\Receipt\obj\Debug\Receipt.csprojResolveAssemblyReference.cache
+C:\Users\bruker\Desktop\Receipt\Receipt\obj\Debug\Reciept.Form1.resources
+C:\Users\bruker\Desktop\Receipt\Receipt\obj\Debug\Receipt.Properties.Resources.resources
+C:\Users\bruker\Desktop\Receipt\Receipt\obj\Debug\Receipt.csproj.GenerateResource.Cache

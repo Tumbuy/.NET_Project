@@ -1,0 +1,18 @@
+e:\users\admin\documents\visual studio 2015\Projects\Youtube - Lyrics\Youtube - Lyrics\bin\Debug\Youtube - Lyrics.exe.config
+e:\users\admin\documents\visual studio 2015\Projects\Youtube - Lyrics\Youtube - Lyrics\bin\Debug\Youtube - Lyrics.exe
+e:\users\admin\documents\visual studio 2015\Projects\Youtube - Lyrics\Youtube - Lyrics\bin\Debug\Youtube - Lyrics.pdb
+e:\users\admin\documents\visual studio 2015\Projects\Youtube - Lyrics\Youtube - Lyrics\obj\Debug\Youtube - Lyrics.csprojResolveAssemblyReference.cache
+e:\users\admin\documents\visual studio 2015\Projects\Youtube - Lyrics\Youtube - Lyrics\obj\Debug\Youtube___Lyrics.Form1.resources
+e:\users\admin\documents\visual studio 2015\Projects\Youtube - Lyrics\Youtube - Lyrics\obj\Debug\Youtube___Lyrics.Properties.Resources.resources
+e:\users\admin\documents\visual studio 2015\Projects\Youtube - Lyrics\Youtube - Lyrics\obj\Debug\Youtube - Lyrics.csproj.GenerateResource.Cache
+e:\users\admin\documents\visual studio 2015\Projects\Youtube - Lyrics\Youtube - Lyrics\obj\Debug\Youtube - Lyrics.exe
+e:\users\admin\documents\visual studio 2015\Projects\Youtube - Lyrics\Youtube - Lyrics\obj\Debug\Youtube - Lyrics.pdb
+C:\Users\bruker\Documents\Visual Studio 2015\Projects\Youtube - Lyrics\Youtube - Lyrics\bin\Debug\Youtube - Lyrics.exe.config
+C:\Users\bruker\Documents\Visual Studio 2015\Projects\Youtube - Lyrics\Youtube - Lyrics\obj\Debug\Youtube - Lyrics.exe
+C:\Users\bruker\Documents\Visual Studio 2015\Projects\Youtube - Lyrics\Youtube - Lyrics\obj\Debug\Youtube - Lyrics.pdb
+C:\Users\bruker\Documents\Visual Studio 2015\Projects\Youtube - Lyrics\Youtube - Lyrics\bin\Debug\Youtube - Lyrics.exe
+C:\Users\bruker\Documents\Visual Studio 2015\Projects\Youtube - Lyrics\Youtube - Lyrics\bin\Debug\Youtube - Lyrics.pdb
+C:\Users\bruker\Documents\Visual Studio 2015\Projects\Youtube - Lyrics\Youtube - Lyrics\obj\Debug\Youtube - Lyrics.csprojResolveAssemblyReference.cache
+C:\Users\bruker\Documents\Visual Studio 2015\Projects\Youtube - Lyrics\Youtube - Lyrics\obj\Debug\Youtube___Lyrics.Form1.resources
+C:\Users\bruker\Documents\Visual Studio 2015\Projects\Youtube - Lyrics\Youtube - Lyrics\obj\Debug\Youtube___Lyrics.Properties.Resources.resources
+C:\Users\bruker\Documents\Visual Studio 2015\Projects\Youtube - Lyrics\Youtube - Lyrics\obj\Debug\Youtube - Lyrics.csproj.GenerateResource.Cache

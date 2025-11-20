@@ -1,0 +1,9 @@
+c:\users\bruker\documents\visual studio 2015\Projects\Currency_Converter\Currency_Converter\bin\Debug\Currency_Converter.exe.config
+c:\users\bruker\documents\visual studio 2015\Projects\Currency_Converter\Currency_Converter\bin\Debug\Currency_Converter.exe
+c:\users\bruker\documents\visual studio 2015\Projects\Currency_Converter\Currency_Converter\bin\Debug\Currency_Converter.pdb
+c:\users\bruker\documents\visual studio 2015\Projects\Currency_Converter\Currency_Converter\obj\Debug\Currency_Converter.csprojResolveAssemblyReference.cache
+c:\users\bruker\documents\visual studio 2015\Projects\Currency_Converter\Currency_Converter\obj\Debug\Currency_Converter.Form1.resources
+c:\users\bruker\documents\visual studio 2015\Projects\Currency_Converter\Currency_Converter\obj\Debug\Currency_Converter.Properties.Resources.resources
+c:\users\bruker\documents\visual studio 2015\Projects\Currency_Converter\Currency_Converter\obj\Debug\Currency_Converter.csproj.GenerateResource.Cache
+c:\users\bruker\documents\visual studio 2015\Projects\Currency_Converter\Currency_Converter\obj\Debug\Currency_Converter.exe
+c:\users\bruker\documents\visual studio 2015\Projects\Currency_Converter\Currency_Converter\obj\Debug\Currency_Converter.pdb
